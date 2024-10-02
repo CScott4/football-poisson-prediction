@@ -1,5 +1,5 @@
 {
-    "2001": {
+    "0001": {
         "relegated": [
             "Man City",
             "Coventry",
@@ -11,7 +11,7 @@
             "Bolton"
         ]
     },
-    "2002": {
+    "0102": {
         "relegated": [
             "Ipswich",
             "Derby",
@@ -23,7 +23,7 @@
             "Birmingham"
         ]
     },
-    "2003": {
+    "0203": {
         "relegated": [
             "West Ham",
             "West Brom",
@@ -35,7 +35,7 @@
             "Wolves"
         ]
     },
-    "2004": {
+    "0304": {
         "relegated": [
             "Leeds",
             "Leicester",
@@ -47,7 +47,7 @@
             "Crystal Palace"
         ]
     },
-    "2005": {
+    "0405": {
         "relegated": [
             "Southampton",
             "Crystal Palace",
@@ -59,7 +59,7 @@
             "West Ham"
         ]
     },
-    "2006": {
+    "0506": {
         "relegated": [
             "Birmingham",
             "West Brom",
@@ -71,7 +71,7 @@
             "Watford"
         ]
     },
-    "2007": {
+    "0607": {
         "relegated": [
             "Charlton",
             "Sheffield United",
@@ -83,7 +83,7 @@
             "Derby"
         ]
     },
-    "2008": {
+    "0708": {
         "relegated": [
             "Reading",
             "Birmingham",
@@ -95,7 +95,7 @@
             "Hull"
         ]
     },
-    "2009": {
+    "0809": {
         "relegated": [
             "Newcastle",
             "Middlesbrough",
@@ -107,7 +107,7 @@
             "Burnley"
         ]
     },
-    "2010": {
+    "0910": {
         "relegated": [
             "Burnley",
             "Hull",
@@ -119,7 +119,7 @@
             "Blackpool"
         ]
     },
-    "2011": {
+    "1011": {
         "relegated": [
             "West Ham",
             "Blackpool",
@@ -131,7 +131,7 @@
             "Swansea"
         ]
     },
-    "2012": {
+    "1112": {
         "relegated": [
             "Wolves",
             "Blackburn",
@@ -143,7 +143,7 @@
             "West Ham"
         ]
     },
-    "2013": {
+    "1213": {
         "relegated": [
             "Wigan",
             "Reading",
@@ -155,7 +155,7 @@
             "Crystal Palace"
         ]
     },
-    "2014": {
+    "1314": {
         "relegated": [
             "Norwich",
             "Fulham",
@@ -167,7 +167,7 @@
             "QPR"
         ]
     },
-    "2015": {
+    "1415": {
         "relegated": [
             "Hull",
             "Burnley",
@@ -179,7 +179,7 @@
             "Norwich"
         ]
     },
-    "2016": {
+    "1516": {
         "relegated": [
             "Newcastle",
             "Norwich",
@@ -191,7 +191,7 @@
             "Hull"
         ]
     },
-    "2017": {
+    "1617": {
         "relegated": [
             "Sunderland",
             "Middlesbrough",
@@ -203,7 +203,7 @@
             "Huddersfield"
         ]
     },
-    "2018": {
+    "1718": {
         "relegated": [
             "Swansea",
             "Stoke",
@@ -215,7 +215,7 @@
             "Fulham"
         ]
     },
-    "2019": {
+    "1819": {
         "relegated": [
             "Cardiff",
             "Fulham",
@@ -227,7 +227,7 @@
             "Aston Villa"
         ]
     },
-    "2020": {
+    "1920": {
         "relegated": [
             "Bournemouth",
             "Watford",
@@ -251,7 +251,7 @@
             "Brentford"
         ]
     },
-    "2022": {
+    "2122": {
         "relegated": [
             "Burnley",
             "Watford",
@@ -263,7 +263,7 @@
             "Nott'm Forest"
         ]
     },
-    "2023": {
+    "2223": {
         "relegated": [
             "Leicester",
             "Leeds",
@@ -275,7 +275,7 @@
             "Luton"
         ]
     },
-    "2024": {
+    "2324": {
         "relegated": [
             "Everton",
             "Sheffield United",

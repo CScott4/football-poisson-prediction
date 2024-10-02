@@ -1,0 +1,290 @@
+{
+    "2001": {
+        "relegated": [
+            "Man City",
+            "Coventry",
+            "Bradford"
+        ],
+        "promoted": [
+            "Fulham",
+            "Blackburn",
+            "Bolton"
+        ]
+    },
+    "2002": {
+        "relegated": [
+            "Ipswich",
+            "Derby",
+            "Leicester"
+        ],
+        "promoted": [
+            "Man City",
+            "West Brom",
+            "Birmingham"
+        ]
+    },
+    "2003": {
+        "relegated": [
+            "West Ham",
+            "West Brom",
+            "Sunderland"
+        ],
+        "promoted": [
+            "Portsmouth",
+            "Leicester",
+            "Wolves"
+        ]
+    },
+    "2004": {
+        "relegated": [
+            "Leeds",
+            "Leicester",
+            "Wolves"
+        ],
+        "promoted": [
+            "Norwich",
+            "West Brom",
+            "Crystal Palace"
+        ]
+    },
+    "2005": {
+        "relegated": [
+            "Southampton",
+            "Crystal Palace",
+            "Norwich"
+        ],
+        "promoted": [
+            "Sunderland",
+            "Wigan",
+            "West Ham"
+        ]
+    },
+    "2006": {
+        "relegated": [
+            "Birmingham",
+            "West Brom",
+            "Sunderland"
+        ],
+        "promoted": [
+            "Reading",
+            "Sheffield United",
+            "Watford"
+        ]
+    },
+    "2007": {
+        "relegated": [
+            "Charlton",
+            "Sheffield United",
+            "Watford"
+        ],
+        "promoted": [
+            "Sunderland",
+            "Birmingham",
+            "Derby"
+        ]
+    },
+    "2008": {
+        "relegated": [
+            "Reading",
+            "Birmingham",
+            "Derby"
+        ],
+        "promoted": [
+            "West Brom",
+            "Stoke",
+            "Hull"
+        ]
+    },
+    "2009": {
+        "relegated": [
+            "Newcastle",
+            "Middlesbrough",
+            "West Brom"
+        ],
+        "promoted": [
+            "Wolves",
+            "Birmingham",
+            "Burnley"
+        ]
+    },
+    "2010": {
+        "relegated": [
+            "Burnley",
+            "Hull",
+            "Portsmouth"
+        ],
+        "promoted": [
+            "Newcastle",
+            "West Brom",
+            "Blackpool"
+        ]
+    },
+    "2011": {
+        "relegated": [
+            "West Ham",
+            "Blackpool",
+            "Birmingham"
+        ],
+        "promoted": [
+            "QPR",
+            "Norwich",
+            "Swansea"
+        ]
+    },
+    "2012": {
+        "relegated": [
+            "Wolves",
+            "Blackburn",
+            "Bolton"
+        ],
+        "promoted": [
+            "Reading",
+            "Southampton",
+            "West Ham"
+        ]
+    },
+    "2013": {
+        "relegated": [
+            "Wigan",
+            "Reading",
+            "QPR"
+        ],
+        "promoted": [
+            "Cardiff",
+            "Hull",
+            "Crystal Palace"
+        ]
+    },
+    "2014": {
+        "relegated": [
+            "Norwich",
+            "Fulham",
+            "Cardiff"
+        ],
+        "promoted": [
+            "Leicester",
+            "Burnley",
+            "QPR"
+        ]
+    },
+    "2015": {
+        "relegated": [
+            "Hull",
+            "Burnley",
+            "QPR"
+        ],
+        "promoted": [
+            "Bournemouth",
+            "Watford",
+            "Norwich"
+        ]
+    },
+    "2016": {
+        "relegated": [
+            "Newcastle",
+            "Norwich",
+            "Aston Villa"
+        ],
+        "promoted": [
+            "Burnley",
+            "Middlesbrough",
+            "Hull"
+        ]
+    },
+    "2017": {
+        "relegated": [
+            "Sunderland",
+            "Middlesbrough",
+            "Hull"
+        ],
+        "promoted": [
+            "Newcastle",
+            "Brighton",
+            "Huddersfield"
+        ]
+    },
+    "2018": {
+        "relegated": [
+            "Swansea",
+            "Stoke",
+            "West Brom"
+        ],
+        "promoted": [
+            "Wolves",
+            "Cardiff",
+            "Fulham"
+        ]
+    },
+    "2019": {
+        "relegated": [
+            "Cardiff",
+            "Fulham",
+            "Huddersfield"
+        ],
+        "promoted": [
+            "Norwich",
+            "Sheffield United",
+            "Aston Villa"
+        ]
+    },
+    "2020": {
+        "relegated": [
+            "Bournemouth",
+            "Watford",
+            "Norwich"
+        ],
+        "promoted": [
+            "Leeds",
+            "West Brom",
+            "Fulham"
+        ]
+    },
+    "2021": {
+        "relegated": [
+            "Fulham",
+            "West Brom",
+            "Sheffield United"
+        ],
+        "promoted": [
+            "Norwich",
+            "Watford",
+            "Brentford"
+        ]
+    },
+    "2022": {
+        "relegated": [
+            "Burnley",
+            "Watford",
+            "Norwich"
+        ],
+        "promoted": [
+            "Fulham",
+            "Bournemouth",
+            "Nott'm Forest"
+        ]
+    },
+    "2023": {
+        "relegated": [
+            "Leicester",
+            "Leeds",
+            "Southampton"
+        ],
+        "promoted": [
+            "Sheffield United",
+            "Burnley",
+            "Luton"
+        ]
+    },
+    "2024": {
+        "relegated": [
+            "Everton",
+            "Sheffield United",
+            "Burnley"
+        ],
+        "promoted": [
+            "Leicester",
+            "Ipswich",
+            "Southampton"
+        ]
+    }
+}

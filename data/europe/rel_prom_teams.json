@@ -1,0 +1,1429 @@
+{
+    "E0": {
+        "0001": {
+            "relegated": [
+                "Coventry",
+                "Bradford",
+                "Man City"
+            ],
+            "promoted": [
+                "Bolton",
+                "Blackburn",
+                "Fulham"
+            ]
+        },
+        "0102": {
+            "relegated": [
+                "Derby",
+                "Leicester",
+                "Ipswich"
+            ],
+            "promoted": [
+                "Birmingham",
+                "Man City",
+                "West Brom"
+            ]
+        },
+        "0203": {
+            "relegated": [
+                "Sunderland",
+                "West Brom",
+                "West Ham"
+            ],
+            "promoted": [
+                "Leicester",
+                "Portsmouth",
+                "Wolves"
+            ]
+        },
+        "0304": {
+            "relegated": [
+                "Leicester",
+                "Leeds",
+                "Wolves"
+            ],
+            "promoted": [
+                "Norwich",
+                "Crystal Palace",
+                "West Brom"
+            ]
+        },
+        "0405": {
+            "relegated": [
+                "Norwich",
+                "Crystal Palace",
+                "Southampton"
+            ],
+            "promoted": [
+                "Sunderland",
+                "West Ham",
+                "Wigan"
+            ]
+        },
+        "0506": {
+            "relegated": [
+                "Sunderland",
+                "Birmingham",
+                "West Brom"
+            ],
+            "promoted": [
+                "Reading",
+                "Sheffield United",
+                "Watford"
+            ]
+        },
+        "0607": {
+            "relegated": [
+                "Sheffield United",
+                "Watford",
+                "Charlton"
+            ],
+            "promoted": [
+                "Derby",
+                "Sunderland",
+                "Birmingham"
+            ]
+        },
+        "0708": {
+            "relegated": [
+                "Derby",
+                "Birmingham",
+                "Reading"
+            ],
+            "promoted": [
+                "Hull",
+                "Stoke",
+                "West Brom"
+            ]
+        },
+        "0809": {
+            "relegated": [
+                "Middlesbrough",
+                "Newcastle",
+                "West Brom"
+            ],
+            "promoted": [
+                "Wolves",
+                "Birmingham",
+                "Burnley"
+            ]
+        },
+        "0910": {
+            "relegated": [
+                "Portsmouth",
+                "Burnley",
+                "Hull"
+            ],
+            "promoted": [
+                "West Brom",
+                "Newcastle",
+                "Blackpool"
+            ]
+        },
+        "1011": {
+            "relegated": [
+                "Birmingham",
+                "West Ham",
+                "Blackpool"
+            ],
+            "promoted": [
+                "QPR",
+                "Swansea",
+                "Norwich"
+            ]
+        },
+        "1112": {
+            "relegated": [
+                "Blackburn",
+                "Bolton",
+                "Wolves"
+            ],
+            "promoted": [
+                "Reading",
+                "West Ham",
+                "Southampton"
+            ]
+        },
+        "1213": {
+            "relegated": [
+                "QPR",
+                "Reading",
+                "Wigan"
+            ],
+            "promoted": [
+                "Crystal Palace",
+                "Hull",
+                "Cardiff"
+            ]
+        },
+        "1314": {
+            "relegated": [
+                "Norwich",
+                "Fulham",
+                "Cardiff"
+            ],
+            "promoted": [
+                "Leicester",
+                "QPR",
+                "Burnley"
+            ]
+        },
+        "1415": {
+            "relegated": [
+                "QPR",
+                "Burnley",
+                "Hull"
+            ],
+            "promoted": [
+                "Bournemouth",
+                "Norwich",
+                "Watford"
+            ]
+        },
+        "1516": {
+            "relegated": [
+                "Norwich",
+                "Newcastle",
+                "Aston Villa"
+            ],
+            "promoted": [
+                "Burnley",
+                "Hull",
+                "Middlesbrough"
+            ]
+        },
+        "1617": {
+            "relegated": [
+                "Hull",
+                "Middlesbrough",
+                "Sunderland"
+            ],
+            "promoted": [
+                "Brighton",
+                "Newcastle",
+                "Huddersfield"
+            ]
+        },
+        "1718": {
+            "relegated": [
+                "West Brom",
+                "Stoke",
+                "Swansea"
+            ],
+            "promoted": [
+                "Fulham",
+                "Wolves",
+                "Cardiff"
+            ]
+        },
+        "1819": {
+            "relegated": [
+                "Fulham",
+                "Huddersfield",
+                "Cardiff"
+            ],
+            "promoted": [
+                "Aston Villa",
+                "Norwich",
+                "Sheffield United"
+            ]
+        },
+        "1920": {
+            "relegated": [
+                "Bournemouth",
+                "Watford",
+                "Norwich"
+            ],
+            "promoted": [
+                "Fulham",
+                "West Brom",
+                "Leeds"
+            ]
+        },
+        "2021": {
+            "relegated": [
+                "Fulham",
+                "West Brom",
+                "Sheffield United"
+            ],
+            "promoted": [
+                "Brentford",
+                "Watford",
+                "Norwich"
+            ]
+        },
+        "2122": {
+            "relegated": [
+                "Burnley",
+                "Watford",
+                "Norwich"
+            ],
+            "promoted": [
+                "Fulham",
+                "Bournemouth",
+                "Nott'm Forest"
+            ]
+        },
+        "2223": {
+            "relegated": [
+                "Leeds",
+                "Leicester",
+                "Southampton"
+            ],
+            "promoted": [
+                "Burnley",
+                "Sheffield United",
+                "Luton"
+            ]
+        },
+        "2324": {
+            "relegated": [
+                "Burnley",
+                "Sheffield United",
+                "Luton"
+            ],
+            "promoted": [
+                "Ipswich",
+                "Leicester",
+                "Southampton"
+            ]
+        }
+    },
+    "D1": {
+        "0001": {
+            "relegated": [
+                "Ein Frankfurt",
+                "Bochum",
+                "Unterhaching"
+            ],
+            "promoted": [
+                "M'gladbach",
+                "St Pauli",
+                "Nurnberg"
+            ]
+        },
+        "0102": {
+            "relegated": [
+                "Freiburg",
+                "St Pauli",
+                "FC Koln"
+            ],
+            "promoted": [
+                "Bielefeld",
+                "Bochum",
+                "Hannover"
+            ]
+        },
+        "0203": {
+            "relegated": [
+                "Cottbus",
+                "Nurnberg",
+                "Bielefeld"
+            ],
+            "promoted": [
+                "FC Koln",
+                "Freiburg",
+                "Ein Frankfurt"
+            ]
+        },
+        "0304": {
+            "relegated": [
+                "FC Koln",
+                "Munich 1860",
+                "Ein Frankfurt"
+            ],
+            "promoted": [
+                "Bielefeld",
+                "Mainz",
+                "Nurnberg"
+            ]
+        },
+        "0405": {
+            "relegated": [
+                "Freiburg",
+                "Hansa Rostock",
+                "Bochum"
+            ],
+            "promoted": [
+                "Duisburg",
+                "FC Koln",
+                "Ein Frankfurt"
+            ]
+        },
+        "0506": {
+            "relegated": [
+                "Duisburg",
+                "FC Koln",
+                "Kaiserslautern"
+            ],
+            "promoted": [
+                "Aachen",
+                "Cottbus",
+                "Bochum"
+            ]
+        },
+        "0607": {
+            "relegated": [
+                "Mainz",
+                "M'gladbach",
+                "Aachen"
+            ],
+            "promoted": [
+                "Karlsruhe",
+                "Duisburg",
+                "Hansa Rostock"
+            ]
+        },
+        "0708": {
+            "relegated": [
+                "Nurnberg",
+                "Duisburg",
+                "Hansa Rostock"
+            ],
+            "promoted": [
+                "M'gladbach",
+                "Hoffenheim",
+                "FC Koln"
+            ]
+        },
+        "0809": {
+            "relegated": [
+                "Bielefeld",
+                "Cottbus",
+                "Karlsruhe"
+            ],
+            "promoted": [
+                "Mainz",
+                "Nurnberg",
+                "Freiburg"
+            ]
+        },
+        "0910": {
+            "relegated": [
+                "Hertha",
+                "Bochum"
+            ],
+            "promoted": [
+                "Kaiserslautern",
+                "St Pauli"
+            ]
+        },
+        "1011": {
+            "relegated": [
+                "Ein Frankfurt",
+                "St Pauli"
+            ],
+            "promoted": [
+                "Augsburg",
+                "Hertha"
+            ]
+        },
+        "1112": {
+            "relegated": [
+                "FC Koln",
+                "Hertha",
+                "Kaiserslautern"
+            ],
+            "promoted": [
+                "Ein Frankfurt",
+                "Greuther Furth",
+                "Fortuna Dusseldorf"
+            ]
+        },
+        "1213": {
+            "relegated": [
+                "Greuther Furth",
+                "Fortuna Dusseldorf"
+            ],
+            "promoted": [
+                "Braunschweig",
+                "Hertha"
+            ]
+        },
+        "1314": {
+            "relegated": [
+                "Braunschweig",
+                "Nurnberg"
+            ],
+            "promoted": [
+                "FC Koln",
+                "Paderborn"
+            ]
+        },
+        "1415": {
+            "relegated": [
+                "Paderborn",
+                "Freiburg"
+            ],
+            "promoted": [
+                "Darmstadt",
+                "Ingolstadt"
+            ]
+        },
+        "1516": {
+            "relegated": [
+                "Stuttgart",
+                "Hannover"
+            ],
+            "promoted": [
+                "Freiburg",
+                "RB Leipzig"
+            ]
+        },
+        "1617": {
+            "relegated": [
+                "Darmstadt",
+                "Ingolstadt"
+            ],
+            "promoted": [
+                "Stuttgart",
+                "Hannover"
+            ]
+        },
+        "1718": {
+            "relegated": [
+                "Hamburg",
+                "FC Koln"
+            ],
+            "promoted": [
+                "Fortuna Dusseldorf",
+                "Nurnberg"
+            ]
+        },
+        "1819": {
+            "relegated": [
+                "Hannover",
+                "Nurnberg",
+                "Stuttgart"
+            ],
+            "promoted": [
+                "Union Berlin",
+                "FC Koln",
+                "Paderborn"
+            ]
+        },
+        "1920": {
+            "relegated": [
+                "Fortuna Dusseldorf",
+                "Paderborn"
+            ],
+            "promoted": [
+                "Stuttgart",
+                "Bielefeld"
+            ]
+        },
+        "2021": {
+            "relegated": [
+                "Werder Bremen",
+                "Schalke 04"
+            ],
+            "promoted": [
+                "Bochum",
+                "Greuther Furth"
+            ]
+        },
+        "2122": {
+            "relegated": [
+                "Bielefeld",
+                "Greuther Furth"
+            ],
+            "promoted": [
+                "Werder Bremen",
+                "Schalke 04"
+            ]
+        },
+        "2223": {
+            "relegated": [
+                "Hertha",
+                "Schalke 04"
+            ],
+            "promoted": [
+                "Darmstadt",
+                "Heidenheim"
+            ]
+        },
+        "2324": {
+            "relegated": [
+                "Darmstadt",
+                "FC Koln"
+            ],
+            "promoted": [
+                "St Pauli",
+                "Holstein Kiel"
+            ]
+        }
+    },
+    "I1": {
+        "0001": {
+            "relegated": [
+                "Bari",
+                "Napoli",
+                "Reggina",
+                "Vicenza"
+            ],
+            "promoted": [
+                "Chievo",
+                "Piacenza",
+                "Torino",
+                "Venezia"
+            ]
+        },
+        "0102": {
+            "relegated": [
+                "Fiorentina",
+                "Lecce",
+                "Verona",
+                "Venezia"
+            ],
+            "promoted": [
+                "Como",
+                "Modena",
+                "Empoli",
+                "Reggina"
+            ]
+        },
+        "0203": {
+            "relegated": [
+                "Como",
+                "Atalanta",
+                "Piacenza",
+                "Torino"
+            ],
+            "promoted": [
+                "Ancona",
+                "Sampdoria",
+                "Lecce",
+                "Siena"
+            ]
+        },
+        "0304": {
+            "relegated": [
+                "Perugia",
+                "Ancona",
+                "Empoli",
+                "Modena"
+            ],
+            "promoted": [
+                "Atalanta",
+                "Cagliari",
+                "Palermo",
+                "Fiorentina",
+                "Livorno",
+                "Messina"
+            ]
+        },
+        "0405": {
+            "relegated": [
+                "Atalanta",
+                "Brescia",
+                "Bologna"
+            ],
+            "promoted": [
+                "Ascoli",
+                "Empoli",
+                "Treviso"
+            ]
+        },
+        "0506": {
+            "relegated": [
+                "Juventus",
+                "Lecce",
+                "Treviso"
+            ],
+            "promoted": [
+                "Atalanta",
+                "Torino",
+                "Catania"
+            ]
+        },
+        "0607": {
+            "relegated": [
+                "Chievo",
+                "Messina",
+                "Ascoli"
+            ],
+            "promoted": [
+                "Genoa",
+                "Juventus",
+                "Napoli"
+            ]
+        },
+        "0708": {
+            "relegated": [
+                "Empoli",
+                "Livorno",
+                "Parma"
+            ],
+            "promoted": [
+                "Chievo",
+                "Bologna",
+                "Lecce"
+            ]
+        },
+        "0809": {
+            "relegated": [
+                "Torino",
+                "Lecce",
+                "Reggina"
+            ],
+            "promoted": [
+                "Livorno",
+                "Bari",
+                "Parma"
+            ]
+        },
+        "0910": {
+            "relegated": [
+                "Siena",
+                "Livorno",
+                "Atalanta"
+            ],
+            "promoted": [
+                "Cesena",
+                "Brescia",
+                "Lecce"
+            ]
+        },
+        "1011": {
+            "relegated": [
+                "Bari",
+                "Sampdoria",
+                "Brescia"
+            ],
+            "promoted": [
+                "Atalanta",
+                "Siena",
+                "Novara"
+            ]
+        },
+        "1112": {
+            "relegated": [
+                "Cesena",
+                "Lecce",
+                "Novara"
+            ],
+            "promoted": [
+                "Pescara",
+                "Torino",
+                "Sampdoria"
+            ]
+        },
+        "1213": {
+            "relegated": [
+                "Palermo",
+                "Pescara",
+                "Siena"
+            ],
+            "promoted": [
+                "Verona",
+                "Livorno",
+                "Sassuolo"
+            ]
+        },
+        "1314": {
+            "relegated": [
+                "Livorno",
+                "Bologna",
+                "Catania"
+            ],
+            "promoted": [
+                "Cesena",
+                "Palermo",
+                "Empoli"
+            ]
+        },
+        "1415": {
+            "relegated": [
+                "Cesena",
+                "Cagliari",
+                "Parma"
+            ],
+            "promoted": [
+                "Frosinone",
+                "Bologna",
+                "Carpi"
+            ]
+        },
+        "1516": {
+            "relegated": [
+                "Verona",
+                "Frosinone",
+                "Carpi"
+            ],
+            "promoted": [
+                "Pescara",
+                "Cagliari",
+                "Crotone"
+            ]
+        },
+        "1617": {
+            "relegated": [
+                "Empoli",
+                "Palermo",
+                "Pescara"
+            ],
+            "promoted": [
+                "Verona",
+                "Benevento",
+                "Spal"
+            ]
+        },
+        "1718": {
+            "relegated": [
+                "Verona",
+                "Crotone",
+                "Benevento"
+            ],
+            "promoted": [
+                "Empoli",
+                "Parma",
+                "Frosinone"
+            ]
+        },
+        "1819": {
+            "relegated": [
+                "Chievo",
+                "Empoli",
+                "Frosinone"
+            ],
+            "promoted": [
+                "Verona",
+                "Lecce",
+                "Brescia"
+            ]
+        },
+        "1920": {
+            "relegated": [
+                "Spal",
+                "Lecce",
+                "Brescia"
+            ],
+            "promoted": [
+                "Spezia",
+                "Crotone",
+                "Benevento"
+            ]
+        },
+        "2021": {
+            "relegated": [
+                "Parma",
+                "Crotone",
+                "Benevento"
+            ],
+            "promoted": [
+                "Empoli",
+                "Salernitana",
+                "Venezia"
+            ]
+        },
+        "2122": {
+            "relegated": [
+                "Cagliari",
+                "Genoa",
+                "Venezia"
+            ],
+            "promoted": [
+                "Lecce",
+                "Monza",
+                "Cremonese"
+            ]
+        },
+        "2223": {
+            "relegated": [
+                "Sampdoria",
+                "Spezia",
+                "Cremonese"
+            ],
+            "promoted": [
+                "Frosinone",
+                "Genoa",
+                "Cagliari"
+            ]
+        },
+        "2324": {
+            "relegated": [
+                "Frosinone",
+                "Sassuolo",
+                "Salernitana"
+            ],
+            "promoted": [
+                "Parma",
+                "Venezia",
+                "Como"
+            ]
+        }
+    },
+    "SP1": {
+        "0001": {
+            "relegated": [
+                "Numancia",
+                "Santander",
+                "Oviedo"
+            ],
+            "promoted": [
+                "Sevilla",
+                "Tenerife",
+                "Betis",
+                "Osasuna"
+            ]
+        },
+        "0102": {
+            "relegated": [
+                "Tenerife",
+                "Las Palmas",
+                "Zaragoza"
+            ],
+            "promoted": [
+                "Santander",
+                "Recreativo",
+                "Ath Madrid"
+            ]
+        },
+        "0203": {
+            "relegated": [
+                "Recreativo",
+                "Vallecano",
+                "Alaves"
+            ],
+            "promoted": [
+                "Albacete",
+                "Zaragoza",
+                "Murcia"
+            ]
+        },
+        "0304": {
+            "relegated": [
+                "Celta",
+                "Murcia",
+                "Valladolid"
+            ],
+            "promoted": [
+                "Numancia",
+                "Getafe",
+                "Levante"
+            ]
+        },
+        "0405": {
+            "relegated": [
+                "Numancia",
+                "Albacete",
+                "Levante"
+            ],
+            "promoted": [
+                "Alaves",
+                "Cadiz",
+                "Celta"
+            ]
+        },
+        "0506": {
+            "relegated": [
+                "Alaves",
+                "Cadiz",
+                "Malaga"
+            ],
+            "promoted": [
+                "Recreativo",
+                "Gimnastic",
+                "Levante"
+            ]
+        },
+        "0607": {
+            "relegated": [
+                "Celta",
+                "Gimnastic",
+                "Sociedad"
+            ],
+            "promoted": [
+                "Murcia",
+                "Almeria",
+                "Valladolid"
+            ]
+        },
+        "0708": {
+            "relegated": [
+                "Levante",
+                "Murcia",
+                "Zaragoza"
+            ],
+            "promoted": [
+                "Numancia",
+                "Sp Gijon",
+                "Malaga"
+            ]
+        },
+        "0809": {
+            "relegated": [
+                "Betis",
+                "Numancia",
+                "Recreativo"
+            ],
+            "promoted": [
+                "Zaragoza",
+                "Tenerife",
+                "Xerez"
+            ]
+        },
+        "0910": {
+            "relegated": [
+                "Tenerife",
+                "Valladolid",
+                "Xerez"
+            ],
+            "promoted": [
+                "Hercules",
+                "Levante",
+                "Sociedad"
+            ]
+        },
+        "1011": {
+            "relegated": [
+                "Hercules",
+                "La Coruna",
+                "Almeria"
+            ],
+            "promoted": [
+                "Granada",
+                "Betis",
+                "Vallecano"
+            ]
+        },
+        "1112": {
+            "relegated": [
+                "Sp Gijon",
+                "Villarreal",
+                "Santander"
+            ],
+            "promoted": [
+                "Celta",
+                "La Coruna",
+                "Valladolid"
+            ]
+        },
+        "1213": {
+            "relegated": [
+                "Mallorca",
+                "La Coruna",
+                "Zaragoza"
+            ],
+            "promoted": [
+                "Almeria",
+                "Elche",
+                "Villarreal"
+            ]
+        },
+        "1314": {
+            "relegated": [
+                "Valladolid",
+                "Osasuna",
+                "Betis"
+            ],
+            "promoted": [
+                "Eibar",
+                "Cordoba",
+                "La Coruna"
+            ]
+        },
+        "1415": {
+            "relegated": [
+                "Almeria",
+                "Cordoba",
+                "Elche"
+            ],
+            "promoted": [
+                "Betis",
+                "Sp Gijon",
+                "Las Palmas"
+            ]
+        },
+        "1516": {
+            "relegated": [
+                "Vallecano",
+                "Levante",
+                "Getafe"
+            ],
+            "promoted": [
+                "Leganes",
+                "Osasuna",
+                "Alaves"
+            ]
+        },
+        "1617": {
+            "relegated": [
+                "Granada",
+                "Sp Gijon",
+                "Osasuna"
+            ],
+            "promoted": [
+                "Girona",
+                "Levante",
+                "Getafe"
+            ]
+        },
+        "1718": {
+            "relegated": [
+                "La Coruna",
+                "Malaga",
+                "Las Palmas"
+            ],
+            "promoted": [
+                "Vallecano",
+                "Valladolid",
+                "Huesca"
+            ]
+        },
+        "1819": {
+            "relegated": [
+                "Girona",
+                "Vallecano",
+                "Huesca"
+            ],
+            "promoted": [
+                "Mallorca",
+                "Granada",
+                "Osasuna"
+            ]
+        },
+        "1920": {
+            "relegated": [
+                "Mallorca",
+                "Leganes",
+                "Espanol"
+            ],
+            "promoted": [
+                "Cadiz",
+                "Huesca",
+                "Elche"
+            ]
+        },
+        "2021": {
+            "relegated": [
+                "Eibar",
+                "Valladolid",
+                "Huesca"
+            ],
+            "promoted": [
+                "Mallorca",
+                "Espanol",
+                "Vallecano"
+            ]
+        },
+        "2122": {
+            "relegated": [
+                "Alaves",
+                "Granada",
+                "Levante"
+            ],
+            "promoted": [
+                "Valladolid",
+                "Almeria",
+                "Girona"
+            ]
+        },
+        "2223": {
+            "relegated": [
+                "Valladolid",
+                "Espanol",
+                "Elche"
+            ],
+            "promoted": [
+                "Las Palmas",
+                "Alaves",
+                "Granada"
+            ]
+        },
+        "2324": {
+            "relegated": [
+                "Almeria",
+                "Cadiz",
+                "Granada"
+            ],
+            "promoted": [
+                "Valladolid",
+                "Espanol",
+                "Leganes"
+            ]
+        }
+    },
+    "F1": {
+        "0001": {
+            "relegated": [
+                "Toulouse",
+                "St Etienne",
+                "Strasbourg"
+            ],
+            "promoted": [
+                "Lorient",
+                "Montpellier",
+                "Sochaux"
+            ]
+        },
+        "0102": {
+            "relegated": [
+                "Lorient",
+                "Metz"
+            ],
+            "promoted": [
+                "Nice",
+                "Strasbourg",
+                "Ajaccio",
+                "Le Havre"
+            ]
+        },
+        "0203": {
+            "relegated": [
+                "Sedan",
+                "Troyes",
+                "Le Havre"
+            ],
+            "promoted": [
+                "Metz",
+                "Toulouse",
+                "Le Mans"
+            ]
+        },
+        "0304": {
+            "relegated": [
+                "Guingamp",
+                "Montpellier",
+                "Le Mans"
+            ],
+            "promoted": [
+                "Caen",
+                "St Etienne",
+                "Istres"
+            ]
+        },
+        "0405": {
+            "relegated": [
+                "Bastia",
+                "Caen",
+                "Istres"
+            ],
+            "promoted": [
+                "Nancy",
+                "Le Mans",
+                "Troyes"
+            ]
+        },
+        "0506": {
+            "relegated": [
+                "Strasbourg",
+                "Ajaccio",
+                "Metz"
+            ],
+            "promoted": [
+                "Sedan",
+                "Lorient",
+                "Valenciennes"
+            ]
+        },
+        "0607": {
+            "relegated": [
+                "Nantes",
+                "Sedan",
+                "Troyes"
+            ],
+            "promoted": [
+                "Strasbourg",
+                "Caen",
+                "Metz"
+            ]
+        },
+        "0708": {
+            "relegated": [
+                "Strasbourg",
+                "Lens",
+                "Metz"
+            ],
+            "promoted": [
+                "Le Havre",
+                "Nantes",
+                "Grenoble"
+            ]
+        },
+        "0809": {
+            "relegated": [
+                "Le Havre",
+                "Caen",
+                "Nantes"
+            ],
+            "promoted": [
+                "Montpellier",
+                "Lens",
+                "Boulogne"
+            ]
+        },
+        "0910": {
+            "relegated": [
+                "Grenoble",
+                "Le Mans",
+                "Boulogne"
+            ],
+            "promoted": [
+                "Arles",
+                "Brest",
+                "Caen"
+            ]
+        },
+        "1011": {
+            "relegated": [
+                "Lens",
+                "Arles",
+                "Monaco"
+            ],
+            "promoted": [
+                "Ajaccio",
+                "Dijon",
+                "Evian Thonon Gaillard"
+            ]
+        },
+        "1112": {
+            "relegated": [
+                "Caen",
+                "Dijon",
+                "Auxerre"
+            ],
+            "promoted": [
+                "Troyes",
+                "Reims",
+                "Bastia"
+            ]
+        },
+        "1213": {
+            "relegated": [
+                "Nancy",
+                "Troyes",
+                "Brest"
+            ],
+            "promoted": [
+                "Nantes",
+                "Guingamp",
+                "Monaco"
+            ]
+        },
+        "1314": {
+            "relegated": [
+                "Valenciennes",
+                "Ajaccio",
+                "Sochaux"
+            ],
+            "promoted": [
+                "Caen",
+                "Lens",
+                "Metz"
+            ]
+        },
+        "1415": {
+            "relegated": [
+                "Evian Thonon Gaillard",
+                "Lens",
+                "Metz"
+            ],
+            "promoted": [
+                "Troyes",
+                "Angers",
+                "Ajaccio GFCO"
+            ]
+        },
+        "1516": {
+            "relegated": [
+                "Troyes",
+                "Reims",
+                "Ajaccio GFCO"
+            ],
+            "promoted": [
+                "Dijon",
+                "Metz",
+                "Nancy"
+            ]
+        },
+        "1617": {
+            "relegated": [
+                "Bastia",
+                "Nancy",
+                "Lorient"
+            ],
+            "promoted": [
+                "Troyes",
+                "Amiens",
+                "Strasbourg"
+            ]
+        },
+        "1718": {
+            "relegated": [
+                "Metz",
+                "Troyes"
+            ],
+            "promoted": [
+                "Reims",
+                "Nimes"
+            ]
+        },
+        "1819": {
+            "relegated": [
+                "Caen",
+                "Guingamp"
+            ],
+            "promoted": [
+                "Brest",
+                "Metz"
+            ]
+        },
+        "1920": {
+            "relegated": [
+                "Amiens",
+                "Toulouse"
+            ],
+            "promoted": [
+                "Lorient",
+                "Lens"
+            ]
+        },
+        "2021": {
+            "relegated": [
+                "Dijon",
+                "Nimes"
+            ],
+            "promoted": [
+                "Troyes",
+                "Clermont"
+            ]
+        },
+        "2122": {
+            "relegated": [
+                "Bordeaux",
+                "St Etienne",
+                "Metz"
+            ],
+            "promoted": [
+                "Toulouse",
+                "Ajaccio",
+                "Auxerre"
+            ]
+        },
+        "2223": {
+            "relegated": [
+                "Angers",
+                "Ajaccio",
+                "Auxerre",
+                "Troyes"
+            ],
+            "promoted": [
+                "Metz",
+                "Le Havre"
+            ]
+        },
+        "2324": {
+            "relegated": [
+                "Clermont",
+                "Metz",
+                "Lorient"
+            ],
+            "promoted": [
+                "Auxerre",
+                "Angers",
+                "St Etienne"
+            ]
+        }
+    }
+}

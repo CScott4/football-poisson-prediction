@@ -47,4 +47,4 @@ for league in leagues:
     league_df['FTAG'] = league_df['FTAG'].astype(int)
 
     # Save to pickle
-    league_df.to_pickle(f'./europe/{league}_00-01_to_24-25.pkl')
+    league_df.to_pickle(f'football-poisson-prediction/data/europe/{league}_00-01_to_24-25.pkl')
